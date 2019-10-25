@@ -5,7 +5,7 @@ public class SendMessageDB {
 
     private static String url = "jdbc:mysql://localhost:3307/project?serverTimezone=Europe/Moscow&useSSL=false";
     private static String username = "root";
-    private static String password = "cnKQ0uen";
+    private static String password = "********";
 
     public static ArrayList<SendMessage> select() {
 
